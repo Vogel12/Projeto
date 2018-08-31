@@ -95,3 +95,5 @@ C:\Users\M014\Desktop\ProjetoBanca\Solution\Cervejaria\bin\EntityFramework.dll
 C:\Users\M014\Desktop\ProjetoBanca\Solution\Cervejaria\bin\EntityFramework.SqlServer.dll
 C:\Users\M014\Desktop\ProjetoBanca\Solution\Cervejaria\bin\EntityFramework.xml
 C:\Users\M014\Desktop\ProjetoBanca\Solution\Cervejaria\bin\EntityFramework.SqlServer.xml
+C:\Users\M014\Documents\Projeto\Cervejaria\obj\Debug\Cervejaria.dll
+C:\Users\M014\Documents\Projeto\Cervejaria\obj\Debug\Cervejaria.pdb
